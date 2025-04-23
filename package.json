@@ -1,0 +1,15 @@
+
+{
+  "name": "lidar-form-map-project",
+  "version": "1.0.0",
+  "description": "Proyecto de solicitud de escaneo LiDAR con mapa interactivo y formulario",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemailer": "^6.7.2",
+    "body-parser": "^1.19.0"
+  }
+}
